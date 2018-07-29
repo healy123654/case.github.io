@@ -8,6 +8,7 @@ layout: default
 		<h2>Erat lacinia</h2>
 	</header>
 	<div class="features">
+		<h2>NIHAO </h2>
 		<article>
 			<span class="icon fa-diamond"></span>
 			<div class="content">
