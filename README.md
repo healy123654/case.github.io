@@ -13,7 +13,7 @@ and [creating pages](https://jekyllrb.com/docs/pages/).
 - **GitLab**: Simply fork this repository and start editing the `_config.yml` file!
 - **GitHub**: Fork this reposity and create a branch named `gh-pages`, then start editing the `_config.yml` file! The `.gitlab-ci.yml` file is only needed for GitLab Pages, so feel free to delete this if you are using GitHub instead.
 
-# Added Features
+# Added Features fasdfslkjjkhjkhjkghlk'kl;jklhjk
 
 * Add your **social profiles** easily in `_config.yml`.
 
